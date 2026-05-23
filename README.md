@@ -57,16 +57,21 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Fashion-Visual-Search-Recommender](https://github.com/ishaa-2706/Fashion-Visual-Search-Recommender) | Visual search engine for fashion items | Python, ML |
-| [movie-recommender-system-mn](https://github.com/ishaa-2706/movie-recommender-system-mn) | Content-based movie recommendation using NLP | Python, NLP |
+| [Fashion-Visual-Search-Recommender](https://github.com/ishaa-2706/Fashion-Visual-Search-Recommender) | Visual search engine for fashion items using ML | Python, ML |
+| [finance-backend](https://github.com/ishaa-2706/finance-backend) | Backend system for finance management | Python |
+| [SPENDWISE_AI](https://github.com/ishaa-2706/SPENDWISE_AI) | AI-powered smart spending tracker | JavaScript |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishaa-2706&show_icons=true&theme=tokyonight&hide_border=true" alt="Manisha's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaa-2706&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishaa-2706&theme=tokyonight" alt="Profile Details" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ishaa-2706&theme=tokyonight" alt="Repos Per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ishaa-2706&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ishaa-2706&theme=tokyonight" alt="Stats" width="32%"/>
 </p>
 
 ---
